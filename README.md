@@ -2,9 +2,9 @@
 
 ### 🔐 Cyber Security Undergraduate | 💻 Full-Stack Developer
 
-I'm a 3rd-year BSc (Hons) Information Technology undergraduate
-specializing in Cyber Security, with a strong interest in secure
-software development, web application security and full-stack development.
+I'm a 3rd-year BSc (Hons) Information Technology undergraduate specializing
+in Cyber Security, with a strong interest in secure software development,
+web application security, and full-stack development.
 
 ---
 
@@ -12,7 +12,7 @@ software development, web application security and full-stack development.
 
 - 🎓 BSc (Hons) Information Technology — Cyber Security
 - 🔐 Interested in Cyber Security and Secure Software Development
-- 💻 Building full-stack applications with Java, Spring Boot and React
+- 💻 Building full-stack applications with Java, Spring Boot, and React
 - 🛡️ Learning penetration testing and vulnerability assessment
 - 🐧 Working with Linux and cybersecurity tools
 - 🐳 Exploring Docker and containerized applications
@@ -31,7 +31,7 @@ software development, web application security and full-stack development.
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 
-### ⚙️ Backend & Frameworks
+### ⚙️ Frameworks & Development
 
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
@@ -48,11 +48,11 @@ software development, web application security and full-stack development.
 - Vulnerability Assessment
 - Penetration Testing
 - OWASP Top 10
-- Incident Response
 - Web Application Security
+- Incident Response
 - Secure Coding
 
-### 🧰 Tools & Technologies
+### 🧰 Tools
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
@@ -70,86 +70,101 @@ software development, web application security and full-stack development.
 ### 🔐 CTF Platform
 
 A cybersecurity Capture The Flag platform built using
-**Java, Spring Boot, React, MySQL and Docker**.
+**Java, Spring Boot, React, MySQL, and Docker**.
 
-**Features:**
-- User registration and authentication
-- Cybersecurity CTF challenges
-- Flag submission system
-- Scoring and leaderboard
-- Admin dashboard
-- Vulnerable web applications
-- Docker-based challenges
+**Key Features:**
+- 🔑 User registration and authentication
+- 🧩 Cybersecurity CTF challenges
+- 🚩 Flag submission system
+- 🏆 Scoring and leaderboard
+- 👨‍💼 Admin dashboard
+- 🌐 Vulnerable web applications
+- 🐳 Docker-based challenges
 
 ---
 
 ### 📚 Library Management System
 
 A full-stack library management system built using
-**Spring Boot, React, MySQL, MongoDB, JWT and Spring Security**.
+**Spring Boot, React, MySQL, MongoDB, JWT, and Spring Security**.
 
-**Features:**
-- JWT authentication
-- Role-based access control
-- Admin, Librarian and Member roles
-- Book management
-- Reservation queue
-- Fine calculation
-- Automated overdue reminders
-- Analytics dashboard
+**Key Features:**
+- 🔐 JWT authentication
+- 👥 Role-based access control
+- 👨‍💼 Admin, Librarian, and Member roles
+- 📚 Book management
+- 📋 Reservation queue
+- 💰 Fine calculation
+- ⏰ Automated overdue reminders
+- 📊 Analytics dashboard
 
 ---
 
 ### ✈️ Flight Ticket Reservation System
 
 A Java-based flight reservation application using
-**Java, JavaScript, HTML, CSS and MySQL**.
+**Java, JavaScript, HTML, CSS, and MySQL**.
 
-**Features:**
-- User authentication
-- Flight route searching
-- Travel date and class selection
-- Real-time seat availability
-- Booking management
-- MySQL data persistence
+**Key Features:**
+- 🔐 User authentication
+- ✈️ Flight route searching
+- 📅 Travel date and class selection
+- 💺 Seat availability
+- 🎫 Booking management
+- 🗄️ MySQL data persistence
 
 ---
 
 ### 🚗 Driving School Management System
 
 A Java and Spring Boot application for managing
-driving school registrations, instructors and schedules.
+driving school registrations, instructors, and schedules.
 
-**Features:**
-- Student registration
-- Instructor management
-- Instructor assignment
-- Schedule management
-- Timetable conflict detection
-- CRUD operations
+**Key Features:**
+- 👨‍🎓 Student registration
+- 👨‍🏫 Instructor management
+- 📋 Instructor assignment
+- 📅 Schedule management
+- ⚠️ Timetable conflict detection
+- 🗄️ CRUD operations
 
 ---
 
 ## 🎯 Current Focus
 
-```text
-🔐 Cyber Security
-🛡️ Web Application Security
-💻 Secure Software Development
-🌐 Full-Stack Development
-🧪 Penetration Testing
-🐳 Docker & Container Security
+🔐 Cyber Security  
+🛡️ Web Application Security  
+💻 Secure Software Development  
+🌐 Full-Stack Development  
+🧪 Penetration Testing  
+🐳 Docker & Container Security  
 🐧 Linux
 
-📚 Currently Learning
-Advanced Spring Boot
-Web Application Security
-Penetration Testing
-Network Security
-Secure Coding
-Docker & DevSecOps
-Vulnerability Assessment
-🌐 Connect With Me
-<p align="left"> <a href="https://hasindu-portfolio-d53d.vercel.app/"> <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /> </a> <a href="https://linkedin.com/in/hasindu777"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> </p>
+---
+
+## 📚 Currently Learning
+
+- Advanced Spring Boot
+- Web Application Security
+- Penetration Testing
+- Network Security
+- Secure Coding
+- Docker & DevSecOps
+- Vulnerability Assessment
+
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+  <a href="https://hasindu-portfolio-d53d.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+  </a>
+  <a href="https://linkedin.com/in/hasindu777">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+</p>
+
+---
 
 ⭐ Thanks for visiting my profile!
