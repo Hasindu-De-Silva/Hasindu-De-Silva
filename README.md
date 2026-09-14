@@ -140,3 +140,16 @@ driving school registrations, instructors and schedules.
 🧪 Penetration Testing
 🐳 Docker & Container Security
 🐧 Linux
+
+📚 Currently Learning
+Advanced Spring Boot
+Web Application Security
+Penetration Testing
+Network Security
+Secure Coding
+Docker & DevSecOps
+Vulnerability Assessment
+🌐 Connect With Me
+<p align="left"> <a href="https://hasindu-portfolio-d53d.vercel.app/"> <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /> </a> <a href="https://linkedin.com/in/hasindu777"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> </p>
+
+⭐ Thanks for visiting my profile!
